@@ -1,0 +1,13 @@
+.block_color {
+  color: red; }
+
+h1 {
+  color: red; }
+
+button {
+  display: block;
+  width: 250px;
+  height: 200px;
+  background-color: red; }
+
+/*# sourceMappingURL=style.css.map */
